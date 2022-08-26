@@ -5,3 +5,9 @@ https://svyasa.iweb.online/.  online 2 months course (5 hr everyday- 6-8am, 5-8p
 25k 
 
 
+- [ ] http://www.svyasa.edu.in/ODL_YIC.html.  (highlight the link and right click and click goto the link
+
+- [ ] http://www.svyasa.edu.in/ODL.html.  (online Digital Learning)
+
+- [ ] [main website] (https://svyasa.edu.in/)
+
